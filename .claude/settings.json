@@ -74,5 +74,8 @@
       "Bash(graft-dev:*)",
       "Bash(node dist/cli.js:*)"
     ]
+  },
+  "env": {
+    "GRAFT_TRAIL_AUTOPUSH": "0"
   }
 }
